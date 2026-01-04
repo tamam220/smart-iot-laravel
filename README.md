@@ -2,22 +2,22 @@
 
 Platform IoT berbasis Web yang memungkinkan pengguna mengontrol dan memonitor perangkat keras (ESP8266/ESP32) secara Real-time menggunakan protokol MQTT.
 
-🌐 **Live Demo:** [https://smart-iot.infinityfreeapp.com](https://smart-iot.infinityfreeapp.com)
+ **Live Demo:** [https://smart-iot.infinityfreeapp.com](https://smart-iot.infinityfreeapp.com)
 
-## ✨ Fitur Utama
+##  Fitur Utama
 * **Real-time Control:** Menggunakan MQTT (WebSocket Secure) untuk latensi rendah.
 * **Google Login:** Integrasi OAuth untuk login cepat dan aman.
 * **Multi-Device:** Pengguna dapat menambahkan banyak perangkat (Lampu, Sensor, dll).
 * **Responsive UI:** Tampilan dashboard yang rapi di Desktop maupun Mobile.
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 * **Backend:** Laravel 11
 * **Frontend:** Blade, Tailwind CSS, JavaScript (MQTT.js)
 * **Database:** MySQL
 * **IoT Protocol:** MQTT (via EMQX Broker)
 * **Hardware:** Wemos D1 Mini / ESP32
 
-## 🚀 Cara Instalasi (Hardware)
+##  Cara Instalasi (Hardware)
 Jika Anda ingin menghubungkan alat (Wemos D1 Mini) ke platform ini:
 
 1.  Buat akun di website dan buat Device baru.
