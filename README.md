@@ -26,7 +26,7 @@ Jika Anda ingin menghubungkan alat (Wemos D1 Mini) ke platform ini:
 4.  Hubungkan ke Broker: `broker.emqx.io` port `1883`.
 5.  Subscribe ke topic yang Anda dapatkan di dashboard.
 
-## 📦 Instalasi Local (Untuk Developer)
+##  Instalasi Local (Untuk Developer)
 1. Clone repo ini:
    ```bash
    git clone [https://github.com/username-kamu/smart-iot-laravel.git](https://github.com/username-kamu/smart-iot-laravel.git)
